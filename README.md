@@ -1,2 +1,8 @@
 # linearAlgebra_sose22
-notebooks for my linear algebra course in Tübinge in summer term 2022
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gerhardJaeger/linearAlgebra_sose22/HEAD)
+
+Jupyter notebooks of my course on *Linear algebra*, taught at Tübingen University, Seminar für Sprachwissenschaft, in summer semester 2022.
+
+© Gerhard Jäger
+
