@@ -1,11 +1,13 @@
 name: rise-environment
 channels:
   - conda-forge
+  - anaconda
 dependencies:
   - python
   - numpy
   - scipy
   - matplotlib
+  - sympy
   - pandas
   - bokeh
   - rise
